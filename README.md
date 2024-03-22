@@ -9,3 +9,4 @@ You can play it [here](https://www.roblox.com/games/2262441883/Electric-State-Da
 
 ![image](https://github.com/TermsTechnologies/ASRA/assets/164549264/d2be700d-4fc5-4287-b82c-b96ed8baabde)
 ![image](https://github.com/TermsTechnologies/ASRA/assets/164549264/fcb7d6ca-3e2d-4eaa-97c0-6a3c1bcdc2ff)
+![image](https://github.com/TermsTechnologies/ASRA/assets/164549264/021a5094-cb82-4051-9e2c-1dcda7fe9639)
