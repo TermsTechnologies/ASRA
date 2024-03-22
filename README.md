@@ -1,5 +1,5 @@
 # ASRA - automatic avatar stealer in Roblox (made for Electric State Dark RP on Roblox)
-- You can play it [here](https://www.roblox.com/games/2262441883/Electric-State-DarkRP-Beta)
+You can play it [here](https://www.roblox.com/games/2262441883/Electric-State-DarkRP-Beta)
 
 - This tool steals the avatar by username and returns the IDs of the items that when you equip you will get the outfit.
 - Its not open - source to prevent skidding, there is some false positivities cause of obfuscation.
