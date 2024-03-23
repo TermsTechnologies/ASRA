@@ -7,6 +7,6 @@ You can play it [here](https://www.roblox.com/games/2262441883/Electric-State-Da
 - https://www.blackhatworld.com/seo/python-pyinstaller-nuitka-cx_freeze-export-to-exe-show-virus-on-virustotal-com.1475084/
 - https://www.virustotal.com/gui/file/26778e6c4fa502b7ad1975fe1dc07b90da9bbd61fde5a4503c9941ba4942e6bd
 
-![image](https://github.com/TermsTechnologies/ASRA/assets/164549264/d2be700d-4fc5-4287-b82c-b96ed8baabde)
+![image](https://github.com/TermsTechnologies/ASRA/assets/164549264/4229226f-aa30-4caf-8ac3-c326edb5cb8e)
 ![image](https://github.com/TermsTechnologies/ASRA/assets/164549264/fcb7d6ca-3e2d-4eaa-97c0-6a3c1bcdc2ff)
-![image](https://github.com/TermsTechnologies/ASRA/assets/164549264/021a5094-cb82-4051-9e2c-1dcda7fe9639)
+![image](https://github.com/TermsTechnologies/ASRA/assets/164549264/3264a1ac-bd88-4317-96f6-95b00cdc0f0e)
