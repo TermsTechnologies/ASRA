@@ -3,8 +3,8 @@ You can play it [here](https://www.roblox.com/games/2262441883/Electric-State-Da
 
 ## Warning!
 - Its not open - source to prevent skidding, there is some false positivities cause of obfuscation.
-- Now theres 2 versions of program - one file (ASRA.exe or newer) and file with depencidies for those who has antivirus warnings (ASRA.dist.rar or newer)
-- If you use the second version, you should run ASRA.exe from the folder in the archive with the files that came with it.
+- Now theres 2 versions of program - one file (v1.4ASRA.exe or newer) and file with depencidies for those who has antivirus warnings (v1.4ASRA.dist.rar or newer)
+- If you downloaded second version (ASRA.dist.rar or newer) then just extract folder from archive and run v1.4ASRA.exe (or newer)
 - You can use [tria.ge](https://tria.ge) to test my program and confirm its safe.
 
 ## Description!
