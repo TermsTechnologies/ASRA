@@ -1,33 +1,23 @@
 # LICENSE AGREEMENT.
 This program is protected by national laws and international copyright treaties. Exclusive rights to use this program belong to its author/publisher.
-
 The program and its components can be used free of charge, without license fees, for an unlimited time.
-
 Commercial distribution of the program is prohibited. (It is prohibited to take money for distribution of the program).
-
 The program is supplied "as is".
-
 The program may be included in paid collections or placed on sites other than the copyright holder's site only with the permission of the copyright holder.
 
 # LIMITATION OF WARRANTY.
 The program may contain errors. The copyright holder is not responsible for possible program errors.
-
 The copyright holder does not guarantee that the functions contained in the program will satisfy the stated requirements or that the operation of the program will not be interrupted due to an error.
-
 The copyright holder intentionally disclaims all written and implied warranties, including limitations on the application of warranties after a certain period and shelf life of the product for sale.
-
 Under no circumstances will the copyright holder be liable to the user for any harm, physical or commercial, caused by this program, including lost profits, loss of data, damage to reputation or other incidental or consequential harm resulting from the use or inability to use this program. Claims for any other property claims of the program user are also not accepted.
 
 # COPYRIGHT
 All exclusive copyrights to the program belong to the copyright holder.
-
 The program cannot be disassembled, anything in it can be changed, or new functions can be added to it.
-
 When distributing the program, the name of the copyright holder, his contact information and the website of the copyright holder must be indicated.
 
 # CONTROL OVER COMPLIANCE WITH OBLIGATIONS.
 This license agreement complies with national copyright laws. This agreement is based on a new version of these laws, which supersedes all other agreements and agreements previously applied to this product.
-
 All controversial issues are resolved by mutual agreement of the parties, and if no agreement is reached, then in the courts of general jurisdiction.
 
 # CONTACT INFORMATION
