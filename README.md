@@ -1,3 +1,4 @@
+# As of 24.05.2024 / 23:59 something happened to the roblox api and it kept breaking the program. Expect a fix soon
 # ASRA - automatic avatar stealer for Roblox (made for Electric State Dark RP on Roblox)
 You can play it [here](https://www.roblox.com/games/2262441883/Electric-State-DarkRP-Beta)
 
